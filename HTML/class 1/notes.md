@@ -13,7 +13,7 @@
 
 - press shift +!
 - <Opening tag>
-- <closing tag>
+- </closing tag>
 - <Doctype html> - Document type
 - <html> - Root element
 - <head> - Head section (meta  content links)
