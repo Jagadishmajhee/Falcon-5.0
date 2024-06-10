@@ -8,7 +8,7 @@
 ![alt text](image.png)
 '''<img="https://github.com/Pramodjena/Falcon-4.0/blob/main/CSS/class-2/image.png?raw=true" >'''
 
-<link rel="https://github.com/Pramodjena/Falcon-4.0/blob/main/CSS/class-2/image.png?raw=true">
+'''<link rel="https://github.com/Pramodjena/Falcon-4.0/blob/main/CSS/class-2/image.png?raw=true">'''
 # CSS Flexbox Guide
 
 ## Introduction
