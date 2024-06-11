@@ -6,7 +6,7 @@
   supplies each element as a square prism.
 
 ![alt text](image.png)
-'''<img src="https://github.com/Pramodjena/Falcon-4.0/blob/main/CSS/class-2/image.png?raw=true" >'''
+<img src="https://github.com/Pramodjena/Falcon-4.0/blob/main/CSS/class-2/image.png?raw=true" >
 
 
 # CSS Flexbox Guide
