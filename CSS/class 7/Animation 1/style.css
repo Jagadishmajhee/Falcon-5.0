@@ -1,0 +1,53 @@
+.animate{
+    width: 100px;
+    height:100px;
+    background-color: blue;
+    position: absolute;
+    animation: boxAnimation 5s infinite ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px 5px;
+    border-bottom: solid white;
+    color: burlywood;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 550px;
+    top: 70px;
+}
+h1{
+    position: relative;
+    left: 480px;
+}
+@keyframes boxAnimation{
+    0%{
+        left: 0;
+        transform: rotate(0deg);
+        opacity: 0;
+    }
+
+    25%{
+        opacity: 1;
+    }
+
+    50%{
+        left: calc(100%-50px);
+        transform: rotate(180deg);
+        opacity: 1;
+    }
+
+    75%{
+        opacity: 1;
+    }
+
+    100%{
+        left: 0;
+       transform: rotate(360deg);
+    }
+}
+

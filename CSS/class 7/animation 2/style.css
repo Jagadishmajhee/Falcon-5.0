@@ -1,0 +1,59 @@
+html{
+    font-size: 16px;
+}
+
+
+
+.typography{
+    font-size: 3rem;
+    font-weight: bold;
+    color: darkblue;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    left: 100%;
+    text-align: center;
+    animation: typo 5s infinite;
+}
+
+@keyframes typo{
+    0%{
+        left: 0;
+        color: darkblue;
+    }
+
+    50%{
+        left: calc(100%-200px);
+        color: red;    
+    }
+
+    100%{
+        left: 0;
+        color: darkblue;
+    }
+
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+body{
+    background-image:url(
+
+    "https://st1.latestly.com/wp-content/uploads/2022/06/Wishes_3-10.jpg");
+    background-repeat: no-repeat;
+    /*background-position: 490px 200px;
+    background-size: 250px;
+    border: 2px solid black;*/
+
+    background-size: fit-content;
+    }
+
+img{
+    position: relative;
+    left: 300px;
+    
+}

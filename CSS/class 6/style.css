@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    background-color: black;
+    height: 100vh;
+}
+
+.button_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 250px;
+    position: relative;
+}
+
+button{
+    position: relative;
+    
+    padding: 10px 10px;
+    font-size: 30px;
+    background-color: cyan;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    border-bottom: 5px solid blue;
+    transition: 2s ease-in-out;
+    
+}
+
+button:hover{
+    background-color: green;
+    cursor: pointer;
+    color: crimson;
+    transform: scale(1.5);
+    border-bottom: red;
+    transform: rotate(360deg);
+    border-bottom: 5px solid rgb(205, 15, 205);
+    
+}
+
