@@ -1,0 +1,53 @@
+HTTP:
+
+.HTTP stands for Hyper Text Transfer Protocol.
+.HTTP is a basic protocol to host our websites under World Wide Web(WWW).
+
+
+HTTPS:
+
+.HTTPS stands for Hyper Text Transfer Protocol Secure.
+.We use HTTPS to secure our websites under 3rd party attack.
+.HTTPS provides a security layer to our system or websites so that we can host our websites securely through internet.
+
+SSL:
+
+.SSL stands for Secure Socket Layer.
+.SSL is a certificate for which will provide a security system to our platform so that our website is more secure for SSL certificate.
+
+DOMAIN:
+
+.Domain name is a unique name for every businesses or every websites.
+. ex: www.webBocket.com   - (webBocket) is domain name.
+			  -(.com) is my domain  and (www) is my web address.
+. There are multiple domain address are there.  
+   ex: .com  , .in  , .nic.in  , .hub  .co  ,  .android  etc...
+. In this domain address (.com) has the highest value or highest price.
+
+
+HOSTING:
+
+.Hosting means storing our website images, videos and contents globally so that everyone can see our websites properly.
+.Hosting are of 3 types.
+   1.web hosting
+   2.cloud hosting
+   3.VPS(virtual private server)		
+
+1.WEB HOSTING:  .Web hosting is a type of hosting to host only static sites(read only).
+		.There size ranges fr4om (0 to 10Gb) and there price ranges from (0 to 5k) yearly.
+		.Some of the common web hosting platforms are render, vercel.
+
+2.CLOUD HOSTING .Cloud hosting is a type of hosting that hosts static site as well as dynamic site.
+		.In cloud hosting there price ranges from (0 to 10k) and there size ranges from (0 to 1Tb) .
+		.Most of the common cloud hosting platforms are amazon web services(AWS), Google cloud and Microsoft azure.
+
+3.VPS		.VPS is a type of hosting where we can host all types of websites and we get our private CPUs and private RAMs.
+		.There size ranges from what we want and there price ranges from (0 to 25k).
+		.The famous VPS providers are Hostingers, Bluehost.
+
+
+
+
+
+<CLIENT AND SERVER>
+
