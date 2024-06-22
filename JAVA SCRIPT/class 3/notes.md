@@ -49,14 +49,4 @@ Object:-
 
 
 
-   -:OPERATORS:-
-
--Operators are the key features to do some task or operate some task.
--ex. A+B
--In the above example A & B are the operands, '+' is the operator to do the addition.
-1. Arithmetic Operator:-
-(+,-,*,/)
-modulus  : %
-Exponentiation : **
-increament : ++
-decrement : --
+ 
